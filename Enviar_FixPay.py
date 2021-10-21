@@ -9,9 +9,9 @@ email = open('email_fixpay.txt', 'r')
 email = email.read()
 print('Criando mensagem...')
 
-username = "kevenmatheus.fixpay@gmail.com"
-password = "88490255"
-mail_from = "kevenmatheus.fixpay@gmail.com"
+username = "EMAIL"
+password = "SENHA DO EMAIL "
+mail_from = "EMAIL DO REMETENTE"
 mail_to = email
 mail_subject = "Senha diaria FixPay"
 
