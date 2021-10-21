@@ -13,12 +13,12 @@ username = "EMAIL"
 password = "SENHA DO EMAIL "
 mail_from = "EMAIL DO REMETENTE"
 mail_to = email
-mail_subject = "Senha diaria FixPay"
+mail_subject = "Senha diaria"
 
 
 mail_body_html = f"""
 
-   Olá! , aqui é a FixPay.
+   Olá! , aqui é a 
 
 
    Segue Abaixo sua senha diaria :
@@ -27,7 +27,6 @@ mail_body_html = f"""
  
  Atenciosamente,
  
- FIXPAY DESENVOLVIMENTO
 
 """
 
