@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 senha = open('senha.txt', 'r')
 senha = senha.read()
 
-email = open('email_fixpay.txt', 'r')
+email = open('email.txt', 'r')
 email = email.read()
 print('Criando mensagem...')
 
