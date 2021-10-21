@@ -7,7 +7,15 @@ Programa Criado com o intuito de enviar emails automáticos diariamente , envian
 
 # Como funciona ?
 
-O email loga com o email no campo ['FROM'] = "kevenmatheus.fixpay@gmail.com" 
+O email loga com o email no campo ['FROM'] = "SEU EMAIL" 
+
+Nos campos: 
+
+username = "EMAIL"
+
+password ="SENHA DO EMAIL"
+
+digite um email e senha válidos para que esse email seja o remetente.
 
 
 # Definido como email padrão para envio ( temporariamente)
